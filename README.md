@@ -27,11 +27,15 @@ Repositori ini berisi fungsi JavaScript sederhana yang bertujuan untuk menyediak
   
 Berikut adalah petunjuk untuk menjalankan kode yang tersedia.
 1. Unduh repositori ini ke komputer:
+
    sh
+
    git clone <repository_url>
    
-2. Gunakan Node.js untuk menjalankan file JavaScript:
+3. Gunakan Node.js untuk menjalankan file JavaScript:
+
    sh
+
    node script.js
    
 Selain itu dapat dilakukan dengan cara salin kode JavaScript dan tempelkan langsung ke konsol browser Anda
