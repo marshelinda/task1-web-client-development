@@ -26,16 +26,6 @@ Repositori ini berisi fungsi JavaScript sederhana yang bertujuan untuk menyediak
    - Output: "MR"
   
 Berikut adalah petunjuk untuk menjalankan kode yang tersedia.
-1. Unduh repositori ini ke komputer:
-
-   sh
-
-   git clone <repository_url>
-   
-3. Gunakan Node.js untuk menjalankan file JavaScript:
-
-   sh
-
-   node script.js
-   
+1. Unduh repositori ini ke komputer.
+2. Gunakan Node.js untuk menjalankan file JavaScript.
 Selain itu dapat dilakukan dengan cara salin kode JavaScript dan tempelkan langsung ke konsol browser Anda
